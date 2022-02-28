@@ -1,3 +1,3 @@
-python -m pip install nextcord
-python -m pip install nextcord[voice]
-python -m pip install wavelink
+python pip install nextcord
+python pip install nextcord[voice]
+python pip install wavelink
