@@ -1,0 +1,3 @@
+pip install -U nextcord
+pip install -U nextcord[voice]
+pip install -U wavelink
