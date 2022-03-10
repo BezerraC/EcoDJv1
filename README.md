@@ -17,3 +17,6 @@ To search for music he uses Wavelink and Lavalink
 ▪︎ !queue
 ▪︎ !equalizer
 ▪︎ !lyrics [query]
+
+  
+next feature: ▪︎ leveling system
