@@ -19,4 +19,5 @@ To search for music he uses Wavelink and Lavalink
 ▪︎ !lyrics [query]
 
   
-next feature: ▪︎ leveling system
+# Next feature: 
+  <code>▪︎ leveling system</code>
