@@ -20,4 +20,4 @@ To search for music he uses Wavelink and Lavalink
 
   
 # Next feature: 
-  <code>▪︎ leveling system</code>
+  <code>▪︎ leveling system with rank cards</code>
