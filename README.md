@@ -4,6 +4,14 @@
      EcoDJ-Py 
   </h1>
   </div>
+  
+ <div align="center" dir="auto">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=941379078475362344&permissions=8&scope=bot" rel="nofollow">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Me" style="max-width: 100%;">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Invite Me" style="max-width: 100%;">
+ </div>
 
 <h3 dir="auto">
 🤖 A music bot for discord servers, made with Python 3.9.10
@@ -49,20 +57,20 @@
   <li>
     !lyrics [query] <code>Recive the lyrics of song with pagination</code>
   </li>
-  
+ </ul>
 <h2 dir="auto">Meme Commands:</h2>
   <ul>
     <li>
-      !meme <code>Recive a meme haha<code>
+      !meme <code>Recive a meme haha</code>
     </li>
   </ul>
       
  <h2 dir="auto">Rank Commands:</h2>
    <ul>
     <li>
-      !rank <code>Show your rank on the server<code>
+      !rank <code>Show your rank on the server</code>
     </li>
   </ul>
       
-# Next feature: 
-  <code>▪︎ leveling system with rank cards</code>
+<h2 dir="auto">Next feature:</h2>
+  <code>▪︎ add !leaderboard command to rank menu</code>
