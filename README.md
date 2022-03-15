@@ -16,7 +16,7 @@
 <h3 dir="auto">
 🤖 A music bot for discord servers, made with Python 3.9.10
   </h3>
-<h2 dir="auto">Musics Commands:</h2>
+<h2 dir="auto">✔️ Musics Commands:</h2>
 <ul dir="auto">
   <li>
     !connect <code>Connect the Echo Dj into the server</code>
@@ -58,19 +58,19 @@
     !lyrics [query] <code>Recive the lyrics of song with pagination</code>
   </li>
  </ul>
-<h2 dir="auto">Meme Commands:</h2>
+<h2 dir="auto">✔️ Meme Commands:</h2>
   <ul>
     <li>
       !meme <code>Recive a meme haha</code>
     </li>
   </ul>
       
- <h2 dir="auto">Rank Commands:</h2>
+ <h2 dir="auto">✔️ Rank Commands:</h2>
    <ul>
     <li>
       !rank <code>Show your rank on the server</code>
     </li>
   </ul>
       
-<h2 dir="auto">Next feature:</h2>
+<h2 dir="auto">📌 Next feature:</h2>
   <code>▪︎ add !leaderboard command to rank menu</code>
