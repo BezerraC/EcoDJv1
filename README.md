@@ -65,12 +65,15 @@
     </li>
   </ul>
       
- <h2 dir="auto">✔️ Rank Commands:</h2>
+ <h2 dir="auto">✔️ Level Commands:</h2>
    <ul>
     <li>
-      !rank <code>Show your rank on the server</code>
+      !stats <code>Show your level on the server</code>
+    </li>
+    <li>
+      !leaderboard <code>Show the table of leaderboard the server</code>
     </li>
   </ul>
       
 <h2 dir="auto">📌 Next feature:</h2>
-  <code>▪︎ add !leaderboard command to rank menu</code>
+  <code>▪︎ make games</code>
