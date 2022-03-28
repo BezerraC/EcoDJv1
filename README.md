@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/67652955-dc5a-4954-894b-255125b1530c-profile_image-300x300.png" alt="discord-components logo" height="128" style="max-width: 100%;">
+  <img src="https://cdn.discord.me/server/bc56c97561871bf5300a5b73b62c498ed668870ff98f516ae82feb7d2928bbf1/icon_c4c1649a5af764995ce26fbbb95152a261cb66752e78616393963cd4d3119bfd.jpg" alt="discord-components logo" height="128" style="max-width: 100%;">
   <h1 dir="auto">
      EcoDJ-Py 
   </h1>
