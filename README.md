@@ -19,10 +19,10 @@
 <h2 dir="auto">✔️ Musics Commands:</h2>
 <ul dir="auto">
   <li>
-    !connect <code>Connect the Echo Dj into the server</code>
+    !connect <code>Connect the Eco Dj into the server</code>
   </li>
   <li>
-    !disconnect <code>Disconnect the Echo Dj into the server</code>
+    !disconnect <code>Disconnect the Eco Dj into the server</code>
   </li>
   <li>
     !play <query> <code>Search and play any song</code>
