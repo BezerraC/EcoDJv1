@@ -74,6 +74,17 @@
       !leaderboard <code>Show the table of leaderboard the server</code>
     </li>
   </ul>
+  
+  <h2 dir="auto">✔️ Games Commands:</h2>
+  <h5>Tic Tac Toe</h5>
+    <ul>
+    <li>
+      !tictactoe <code>Start tic-tac-toe with one player</code>
+    </li>
+    <li>
+      !place <code>Informs the position of the chosen place from 1 to 9</code>
+    </li>
+  </ul>
       
 <h2 dir="auto">📌 Next feature:</h2>
   <code>▪︎ make games</code>
