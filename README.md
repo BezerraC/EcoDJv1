@@ -85,6 +85,13 @@
       !place <code>Informs the position of the chosen place from 1 to 9</code>
     </li>
   </ul>
+  <br/>
+  <h5>Tic Tac Toe</h5>
+    <ul>
+    <li>
+      !Comming Soon<code>Comming Soon</code>
+    </li>
+  </ul>
       
 <h2 dir="auto">📌 Next feature:</h2>
-  <code>▪︎ make games</code>
+  <code>▪︎ make Tetris game</code>
