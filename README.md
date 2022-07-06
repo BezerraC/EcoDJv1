@@ -86,7 +86,7 @@
     </li>
   </ul>
   <br/>
-  <h5>Tic Tac Toe</h5>
+  <h5>Tetris</h5>
     <ul>
     <li>
       !Comming Soon<code>Comming Soon</code>
